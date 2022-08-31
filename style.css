@@ -588,7 +588,7 @@ display: flex;
 }
 .footer_column{
   width: 100%;
-  margin-right: calc(250px + 200 * ((100vw - 320px) / (1440 - 320)));
+  margin-right: calc(100px + 0 * ((100vw - 320px) / (1440 - 320)));
   margin-bottom: 58px;
 }
 .footer_Support,.footer_Visit,.footer_MYEL{
